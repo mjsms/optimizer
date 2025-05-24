@@ -37,10 +37,12 @@ class TimetableProblem(Problem):
             slot    = row["slot_id"]
             roomId  = row.get("room_id") or klass.get("preferredRoom")
 
-            # --- conflitos hard ---
-            keyProf = (klass["prof"], slot)
-            if keyProf in slotByProf:   f1_conflicts += 1
-            slotByProf[keyProf] = True
+            # --- conflito de professor ---
+            # key_prof = (klass["prof"], slot)
+            # if key_prof in slot_by_prof:
+            #     f1_conflicts += 1
+            # slot_by_prof[key_prof] = True
+
 
             keyYear = (klass["year"], slot)
             if keyYear in slotByYear:   f1_conflicts += 1

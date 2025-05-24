@@ -1,0 +1,760 @@
+"id","name","academicProgramId"
+1,"Sistemas e Políticas de Saúde",15
+2,"Negociação Empresarial",99
+3,"Modelação de Sistemas e Processos",105
+4,"Paradigmas e Modelos de Investigação em Serviço Social",68
+5,"Relações: Géneros, Famílias, Parentesco",47
+6,"Teorias Sociológicas",33
+7,"Projecto Final de Arquitectura (2020)",13
+8,"Ciberdireito",93
+9,"Israel/Palestina: História, Antropologia, Política",61
+10,"Relato Financeiro Internacional e Análise",100
+11,"Seminário Prática Profissional em Serviço Social",24
+12,"Sistemas de Construção I",13
+13,"Opções Financeiras",60
+14,"Modelação Estocástica",25
+15,"Marketing Digital e E-Business",53
+16,"Questões do Conhecimento Antropológico",103
+17,"Metodologias de Investigação em Direito",99
+18,"Métodos Avançados de Análise de Dados",117
+19,"Seminário de Projecto I (Piudhist)",2
+20,"Turismo e Mundos Urbanos",78
+21,"História do Pensamento Económico",1
+22,"Direito do Trabalho e da Segurança Social",133
+23,"Seminário de Investigação em Economia II",158
+24,"Seminário de Investigação (03376 - 0ects)",56
+25,"Dissertação em Psicologia Comunitária, Proteção de Crianças e Jovens em Risco",89
+26,"Teoria e História da Arquitetura IV",13
+27,"Relato Integrado no Sector Público e Privado",100
+28,"Estágio de Psicologia Social e das Organizações",58
+29,"Modelos da Estrutura Temporal de Taxas de Juro",77
+30,"Recrutamento e Selecção",19
+31,"Gestão de Unidades de Saúde",15
+32,"Métodos Quantitativos Aplicados ao Marketing",29
+33,"Análise de Redes Avançada",98
+34,"Debates em Antropologia",134
+35,"Interfaces Web para A Gestão de Dados",25
+36,"Economia da Empresa e Estratégia Empresarial",85
+37,"Dados na Sociedade",151
+38,"Dissertação em Comunicação, Cultura e Tecnologias da Informação",36
+39,"Mandarim e Cultura Chinesa",4
+40,"Estudos de Internet",95
+41,"Pessoas (Forgep)",72
+42,"Visualização e Interação Pessoa-Máquina",10
+43,"Gestão de Serviços A Clientes",113
+44,"Epistemologia e Metodologia dos Estudos Africanos",111
+45,"Responsabilidade na Gestão Financeira das Instituições Pública",139
+46,"Conceção e Viabilidade de Projeto de Base Tecnológica",10
+47,"Electrónica Programada e Processamento Digital de Sinais",14
+48,"Seminário de Investigação em Psicologia - Temas Aprofundados (2020)",154
+49,"Métodos de Investigação em Psicologia I",51
+50,"Demografia",24
+51,"Economia e Poder em África (1c)",30
+52,"Seminários em Projeto Digital e Sustentabilidade",123
+53,"Comportamento e Experiência do Consumidor",53
+54,"Dissertação em Psicologia das Relações Interculturais (2020)",108
+55,"Seminário Interdisciplinar",57
+56,"Métodos de Estudo de Caso em Economia Política",166
+57,"Metodologias Extensivas: Pesquisas Sociológicas Exemplares",119
+58,"Responsabilidade na Administração Pública",49
+59,"Gestão de Operações e Logística",53
+60,"Comunicação e Sistemas (Cagep)",66
+61,"Igualdade de Género e Diversidade - Iniciação",4
+62,"Tese em Sociologia (0 Ects)",119
+63,"Matemática Aplicada",102
+64,"Seminário de Investigação em Economia Monetária e Financeira I",90
+65,"Seminário de Investigação em Gestão",101
+66,"Desenvolvimento Urbano e Políticas de Cidade",48
+67,"Concepção da Pesquisa I",130
+68,"Fundamentos de Álgebra Linear",25
+69,"Introdução às Finanças Computacionais",167
+70,"Pesquisa de Terreno",21
+71,"Redes Ópticas",28
+72,"Finanças Empresariais Avançadas",6
+73,"Estágio de 2º Ciclo (Espp)",174
+74,"Projecto de Investigação em Arquitectura dos Territórios Metropolitanos Contemporâneos (24ects)",59
+75,"Contabilidade para Juristas",99
+76,"Tese em Antropologia: Políticas e Imagens da Cultura e Museologia (0 Ects)",180
+77,"Modernização Administrativa e Modelos de Gestão Pública",49
+78,"Fundamentos de Governação das Tecnologias de Informação",54
+79,"Métodos de Análise de Dados",104
+80,"Geometria e Estatística",140
+81,"Turismo Electrónico",78
+82,"Gestão de Operações e Sistema Logístico",15
+83,"Sociologia do Trabalho",30
+84,"Empreendedorismo em Media",71
+85,"Iniciação à Comunicação Visual de Dados",52
+86,"Estágio em Gestão de Recursos Humanos e Consultadoria Organizacional",35
+87,"Planeamento e Inovação em Marketing",16
+88,"Psicologia Cultural",148
+89,"Laboratório em Domínios e Campos do Serviço Social",24
+90,"Dissertação em Serviço Social",104
+91,"História da Expansão Portuguesa",63
+92,"Comportamento Organizacional (2º Ciclo)",45
+93,"Gestão e Operações Portuárias",57
+94,"Metodologias de Investigação em Arquitectura dos Territórios Metropolitanos Contemporâneos (18ects)",59
+95,"Desenho e Desenvolvimento de Aplicações de Business Intelligence",12
+96,"Estágio em Psicologia das Relações Interculturais",108
+97,"Psicologia Social",3
+98,"Sistemas Integrados de Apoio à Decisão",175
+99,"Seminário de Projeto em Políticas de Administração e Gestão Escolar",141
+100,"Direito Social",24
+518,"Educação ao Longo da Vida",62
+101,"Logística e Operações Globais",110
+102,"Comportamento do Consumidor e Marketing Research",29
+103,"Programas de Intervenção Social",89
+104,"Modelos de Regressão Aplicados",52
+105,"Trabalho de Projeto de Avaliação de Políticas",116
+106,"Competências, para A Prática do Serviço Social na Saúde",9
+107,"Laboratório de Ética e Profissão em Serviço Social",24
+108,"Psicologia da Aprendizagem",140
+109,"Gestão Estratégica e Internacional de Recursos Humanos",35
+110,"Métodos e Técnicas de Investigação: Intensivos",22
+111,"Serviço Social com Crianças, Jovens e Famílias",24
+112,"Partidos Políticos e Grupos de Interesse",183
+113,"Gestão de Marcas",29
+114,"Segurança em Redes e Sistemas de Informação",73
+115,"Reporte Internacional",110
+116,"Tese em História Moderna e Contemporânea (0 Ects)",170
+117,"Seminário de Investigação em Finanças II",6
+118,"Marketing para as Tecnologias",10
+119,"Práticas Discursivas",36
+120,"Sociologia do Direito",30
+121,"Sociologia da Cultura",30
+122,"Cálculo (Dtda)",143
+123,"Contabilidade e Reporte Financeiro (6ects)",167
+124,"Fundamentos de Análise de Dados",67
+125,"Redes de Telecomunicações",123
+126,"Estratégia e Reporte",176
+127,"Cognição e Emoção",51
+128,"Cultura Portuguesa Contemporânea",164
+129,"Seminário em Estudos de Segurança e Defesa (2020)",178
+130,"Contabilidade de Grupos Avançada",100
+131,"Seminário Teórico-Metodológico I (2020)",38
+132,"Modelação e Implementação de Processos",54
+133,"Etnografia Portuguesa",47
+134,"Arquitectura V",13
+135,"Programação Concorrente e Distribuída",88
+136,"Aprendizagem, Motivação e Emoção",3
+137,"Políticas Públicas de Protecção Social",68
+138,"Teoria da Computação",23
+139,"Ambientes de Trabalho Saudáveis",35
+140,"Direito Económico",17
+141,"Marketing Internacional",167
+142,"Política Internacional e Geopolítica",55
+143,"Gestão da Cadeia de Abastecimento",105
+144,"Crime e Sociedade",104
+145,"Comportamento Organizacional - Processos Individuais",3
+146,"Gestão Estratégica e Sistemas de Informação Organizacional",86
+147,"Seminário de Projeto em Estudos Internacionais",173
+148,"Gestão de Recursos Humanos e Gestão por Competências",155
+149,"Gestão Intercultural (Mim)",110
+150,"Macroeconomia I",17
+151,"Tomada de Decisão Baseada em Dados",12
+152,"Temas e Fontes de Investigação em Economia",45
+153,"Gestão de Canais de Distribuição",29
+154,"Métodos de Pesquisa em Ciências Sociais",33
+155,"Electromagnetismo",14
+156,"Seminário de Investigação em Políticas de Desenvolvimento dos Recursos Humanos",45
+157,"Gestão da Qualidade em Educação",34
+158,"Dissertação em Estudos Africanos",81
+159,"Projeto de Investigação em Economia (6 Ects)",158
+160,"Fundamentos em Gestão de Bases de Dados",25
+161,"Percepção de Pessoas e Relações Interpessoais",3
+162,"Seminário de Acompanhamento III (Piudhist)",2
+163,"Métodos de Investigação",19
+164,"Métodos Avançados em Ciências da Comunicação",95
+165,"Direito do Trabalho I",99
+166,"Sistemas Operativos e Virtualização",165
+167,"Negociação Comercial",53
+168,"Estado e Políticas Públicas",22
+169,"Teoria Antropológica",134
+170,"Gestão da Inovação",106
+171,"Inteligência Artificial Simbólica para Ciência de Dados",25
+172,"Gestão e Sistemas de Informação nas Organizações",10
+173,"Teorias da Cidade e do Território",41
+174,"Introdução à Ciência Política (Dcse)",124
+175,"Análise de Dados para Business Intelligence",12
+176,"Técnicas de Comunicação",4
+177,"Desenho I (2020)",13
+178,"Finanças das Empresas",90
+179,"Direito da Administração Pública",49
+180,"Métodos de Investigação Aplicados (Deint)",173
+181,"Teoria e História do Serviço Social",24
+182,"Dissertação em Educação e Sociedade",62
+183,"Gestão de Operações I",105
+184,"Probabilidades e Processos Estocásticos",23
+185,"Investimentos Financeiros (Mf)",77
+186,"Crescimento Económico (2º Ciclo)",1
+187,"Normas e Técnicas de Auditoria Pública",139
+188,"Cooperação Internacional em África",81
+189,"Política Monetária e Mercados Financeiros",90
+190,"Avaliação de Projetos e Empresas",85
+191,"Economia, Desenvolvimento e Território",92
+192,"Perspectivas e Teorias das Emoções",51
+193,"Dados para Ciências Sociais",52
+194,"Teoria Política: Clássicos e Modernos",96
+195,"Agentes Autónomos",23
+196,"Introdução à Aprendizagem Automática",31
+197,"Bio-Ética e Direitos Humanos na Saúde",9
+198,"A Europa e o Mundo no Século XIX",63
+199,"Comunicação e Sistemas (Forgep)",72
+200,"Objecto e Método da Sociologia",50
+201,"Mercado da Arte: Estruturas e Dinâmicas",79
+202,"Abordagens Integradas do Serviço Social na Saúde",9
+203,"Fundamentos de Contabilidade e Finanças",79
+204,"Análise de Dados em Ciências Sociais: Modelos de Dependência",50
+205,"Análise de Redes (1ciclo)",25
+206,"Pessoas (Cagep)",66
+519,"Economia Financeira",61
+207,"Dissertação em Sistemas Integrados de Apoio à Decisão (2020)",12
+208,"Guerras e Revoluções na Europa Contemporânea",30
+209,"Linguagens Digitais nos Media",30
+210,"Tópicos de Matemática Elementar I",4
+211,"Direito das Sociedades Comerciais",8
+212,"Urbanismo Ecológico",168
+213,"Informática de Gestão",43
+214,"Econometria Avançada I",64
+215,"Modelos Organizacionais",32
+216,"Sistemas de Controlo de Gestão Aplicados",93
+217,"História da Economia Social",161
+218,"Laboratório de Comunicações Ópticas",123
+219,"Tese em Antropologia (0 Ects)",112
+220,"Métodos de Investigação em Gestão Internacional",110
+221,"Teorias da Personalidade",24
+222,"Investigação Empírica em África - Métodos e Técnicas",111
+223,"Metodologias em Estudos Urbanos",48
+224,"Planeamento e Avaliação de Educação e Formação",62
+225,"Análise de Dados Não Estruturados",176
+226,"Gestão e Ação Humanitária",55
+227,"Economia da Organização Industrial",17
+228,"Tópicos Avançados de Gestão I",87
+229,"Teorias e Práticas do Desenvolvimento",144
+230,"Dissertação em Psicologia Social e das Organizações",58
+231,"Psicologia dos Recursos Humanos",167
+232,"Laboratório de Elaboração de Projectos em Sociologia",50
+233,"Políticas de Educação",34
+234,"Culturas de Protesto na Europa do Século XX",63
+235,"Problemáticas Centrais da Reflexão Antropológica",47
+236,"Estados e Mercados na Teoria Económica",166
+237,"Gestão de Stress",4
+238,"Gestão Cultural",44
+239,"Políticas e Instituições do Sistema de Educação e Formação",141
+240,"Antropologia e Imagem",47
+241,"Análise de Conteúdo com Programas Informáticos",30
+242,"Métodos Qualitativos em Investigação Social",68
+243,"Seminário de Projecto (2020)",38
+244,"Seminário de Economia da Empresa e da Concorrência (12 Ects)",85
+245,"Cidadania e Cultura Política",96
+246,"Seminário de Projecto de Investigação em Políticas Públicas",70
+247,"Seminário e Projeto (Cagep)",66
+248,"Sociologia do Trabalho e do Emprego",133
+249,"Dissertação em Estudos de Desenvolvimento",114
+250,"Dissertação em Informática e Gestão (2020)",54
+251,"Finanças em Tempo Contínuo",6
+252,"Metodologias em Antropologia: Pesquisa em Património Cultural Imaterial",180
+253,"Dinâmicas Sociais e Culturais de África",81
+254,"Marginalidade e Controlo Social",63
+255,"Responsabilidade Social e Voluntariado",4
+256,"Português Como Língua Estrangeira - Elementar",4
+257,"Seminário Teórico em Estudos Africanos I (2021)",111
+258,"Bases Biológicas das Emoções",51
+259,"Economia Monetária Internacional Avançada",90
+260,"Sociologia e Epistemologia",30
+261,"Estratégia e Desenvolvimento Empresarial",149
+262,"Avaliação Participativa em Ação Humanitária",30
+263,"Sociologia do Desempenho Escolar",62
+264,"Segurança, Ética e Privacidade",25
+265,"Métodos e Técnicas de Investigação em Administração Pública",49
+266,"Armazenamento para Big Data",25
+267,"Dissertação em Gestão de Novos Media",71
+268,"Contabilidade Avançada",16
+269,"Redes Definidas por Software",123
+270,"O Portal do Sns ao Serviço do Cidadão / Políticas de Saúde, Qualidade e Bem-Estar Social",9
+271,"Dissertação em Ciências em Emoções",51
+272,"Metodologias e Tecnologias para Ciência de Dados",93
+273,"Marketing Estratégico em Hotelaria e Turismo",113
+274,"Desenho de Sistemas de Recompensa e Carreiras",19
+275,"Armazenamento de Dados em Ambientes distribuídos",28
+276,"Apresentações Profissionais",4
+277,"Contabilidade de Gestão II",43
+278,"Ciclo de Conferências (2020)",38
+279,"Tese em Psicologia (0 Ects)",136
+280,"Culturas Digitais, Fãs e Web 2.0",36
+281,"Contabilidade Financeira Avançada (2.º Ciclo - Ch)",135
+282,"Gestão de Sistemas de Informação (2º Ciclo)",31
+283,"Introdução ao Spss",4
+284,"Seminário de Grupos e Intervenção Comunitária",24
+285,"Métodos de Avaliação de Políticas (Pgapp)",116
+286,"Metodologias de Intervenção para o Desenvolvimento",115
+287,"Macroeconomia",32
+288,"Introdução à Economia (Dcse)",124
+289,"Gestão dos Recursos Humanos",45
+290,"Introdução à Ciência Económica",17
+291,"Empresas e Ambiente",169
+292,"Laboratório de Internet das Coisas",123
+293,"Matemática",39
+294,"Introdução ao Excel",182
+295,"Cálculo A uma Variável",40
+296,"Estratégia e Valor Público (Cagep)",66
+297,"Estratégia Empresarial",69
+298,"Instituições Políticas Comparadas",30
+299,"Aprendizagem Profunda para Visão por Computador",123
+300,"Futuros, Forwards e Swaps",60
+301,"Estatística I",43
+302,"Desenho III (2020)",13
+303,"Modernidade e Questão Social",82
+304,"Análise de Dados em Ciências Sociais (1c)",63
+305,"Percepção, Atenção e Memória",3
+306,"Gestão do Marketing",39
+307,"Língua Inglesa",4
+308,"Teoria dos Jogos e dos Contratos",1
+309,"Sistemas de Comunicação Multimédia",28
+310,"Instituições nas Sociedades Contemporâneas",83
+311,"Microeconomia (2º Ciclo)",1
+312,"Estágio em Gestão de Serviços de Saúde",15
+313,"Construção da Teoria em Serviço Social",68
+314,"Sociologia Económica",94
+315,"Sociologia das Migrações Internacionais",30
+316,"Sociologia da Violência",30
+317,"Sistemas Colaborativos",86
+318,"História da Economia Social e Novos Desafios da Economia Solidária",114
+319,"Marketing Operacional",185
+320,"Introdução à Investigação em Informática e Gestão",54
+321,"Decisão, Interação Estratégica e Contratos",85
+322,"Classes Sociais e Estratificação",91
+323,"Contabilidade Financeira I",42
+324,"Gestão de Recursos Humanos Internacional",110
+325,"Introdução à Ciência Política",96
+326,"Tese em Políticas Públicas (0 Ects)",70
+327,"Teoria Antropológica: Explicação e Interpretação",103
+328,"Gestão do Marketing (2.º Ciclo - Ch)",74
+329,"Tópicos Avançados em Microeconomia I",64
+330,"Matemática I",17
+331,"Gestão de Projetos em Ação Humanitária",167
+332,"Definição, Sinalização e Avaliação de Crianças em Situação de Mau Trato e Negligência",61
+333,"Comunicação Organizacional",19
+334,"Investimentos (6ects)",60
+335,"Cálculo Financeiro",8
+336,"Culturas Urbanas/ Culturas Populares",184
+337,"Estratégia Financeira da Empresa",16
+338,"Seminário e Projeto (Forgep)",72
+339,"História e Globalização I",184
+340,"Métodos Estatísticos",130
+341,"Gestão Fiscal",100
+342,"Métodos e Técnicas de Estudo",4
+343,"Dissertação em Sociologia",83
+344,"Dissertação em Estudos e Gestão da Cultura",157
+345,"Engenharia de Software",14
+346,"Análise de Dados (2.º Ciclo)",16
+347,"Aplicações de Business Analytics",176
+348,"Teoria dos Circuitos",14
+349,"Laboratório de Pesquisa Observacional",50
+350,"Diversidade no Local de Trabalho",4
+351,"Teorias Sociológicas Clássicas: Grandes Obras",119
+352,"Sociologia dos Média",30
+353,"Urbanismo Humanitário e os Processos Colaborativos",123
+354,"Seminário I: Economia Social e Solidária e Debates Conceptuais",161
+355,"Inovação e Mudança Organizacional (2c)",35
+356,"Gestão de Big Data",93
+357,"Informática para Economistas",17
+358,"Ciclo de Conferências em Psicologia Ou Outras Ciências Sociais e Humanas (2020)",154
+359,"Análise de Dados em Gestão de Recursos Humanos I",19
+360,"Estratégia e Desenvolvimento Organizacional para os Media",71
+361,"Análise de Dados Exploratória",176
+362,"Epistemologia e Conhecimento Antropológico",47
+363,"Tecnologias Digitais na Relação Entre o Cidadão e A Administração Pública",155
+364,"Seminário de Projeto de Investigação em Gestão Internacional (6 Ects)",110
+365,"Controlo de Gestão",8
+366,"Fundamentos do Serviço Social na Contemporaneidade",104
+367,"Direito do Trabalho",19
+368,"História e Teoria das Relações Internacionais",75
+369,"Fundamentos de Arquitectura de Computadores",5
+370,"A Constituição Social da Economia",166
+371,"Organização Pessoal e Gestão do Tempo",4
+372,"Desigualdades Sociais Contemporâneas",138
+373,"Finanças Internacionais",8
+374,"Gestão de Operações (2ºc)",106
+375,"Gestão do Conhecimento e Cultura Organizacional",179
+376,"Programação (1ciclo)",25
+377,"A Investigação Sociológica em Portugal",119
+378,"Fundamentos de Ciência dos Dados",152
+379,"Cultura e Sociedade",50
+380,"Língua Espanhola",4
+381,"Seminário em Gestão de Sistemas de Informação 1",153
+382,"Matemática (Dtda)",124
+383,"Recepção, Fruição e Públicos da Cultura",181
+384,"Liderança e Gestão de Recursos Humanos",74
+385,"Mapas Etnográficos 1: Américas e África",47
+386,"A Europa e o Mundo Entre as Guerras",63
+387,"Seminário de Projecto de Investigação em Sociologia",119
+388,"Seminário de Investigação Transdisciplinar",56
+389,"Debates e Controvérsias Contemporâneas em Ciência Política",145
+390,"Gestão Integrada da Qualidade",105
+391,"Conceitos, Fundamentos e Desafios em Ação Humanitária",55
+392,"Gestão de Transportes",167
+393,"Animação e Controlo de Personagens Virtuais",123
+394,"Sociologia Urbana",30
+395,"Comunicação Multimédia",140
+396,"Análise de Dados Multivariada",10
+397,"Dissertação em Administração Pública",49
+398,"Políticas Públicas Europeias e Internacionais",172
+399,"Tese em Políticas de Administração e Gestão Escolar (0 Ects)",141
+400,"Tese em Ciências da Comunicação (0 Ects)",95
+401,"Estado e Parcerias para o Desenvolvimento",114
+402,"Gestão de Comunicação",29
+403,"Álgebra Linear",7
+404,"Mar e Globalização",57
+405,"Globalização e Governação nas Relações Internacionais",150
+406,"Métodos Analíticos Inferenciais",52
+407,"Empreendedorismo em Cultura",44
+408,"Métodos de Investigação em Hotelaria e Turismo",113
+409,"Dissertação em Administração Escolar",34
+410,"Boas Práticas & Inovação em Saúde",9
+411,"Métodos de Pesquisa em Antropologia (2º Ciclo)",65
+412,"Seminário de Projecto de Investigação em Estudos Africanos",111
+413,"Diversidade e Relações Interculturais em Contexto Escolar",129
+414,"Ambiente e Sustentabilidade (Mia)",13
+415,"Reconhecimento de Padrões",93
+520,"Processos e Serviços (Cagep)",66
+416,"Diplomacia e Política Externa no Antigo Regime",184
+417,"Pensamento Crítico",46
+418,"Emoções, Marketing, Publicidade e Tomada de Decisão",61
+419,"Impérios, Colonialismo e Pós-Colonialismo I",2
+420,"Sistemas Tecnológicos I",105
+421,"Seminário sobre Temas de Direito das Empresas (Mdet)",99
+422,"Marketing em Mercados da Arte",79
+423,"Trabalho e Emprego na Sociedade Digital",27
+424,"Sistemas de Data Warehouse e Business Intelligence",10
+425,"Processos e Serviços (Forgep)",72
+426,"Diversidade no Trabalho",129
+427,"Seminário de Investigação em Economia e Políticas Públicas (Mepp)",92
+428,"Arquitetura de Redes",5
+429,"Introdução à Gestão de Operações e A Análise de Projetos de Investimento",167
+430,"Economia do Trabalho",133
+431,"Sensores e Atuadores Inteligentes Para a Internet das Coisas (2020)",123
+432,"Economia Política Internacional",166
+433,"Seminário em Ciência Política e Relações Internacionais",145
+434,"Cálculo I",7
+435,"Aplicações de Sistemas Integrados de Apoio à Decisão",123
+436,"Fundamentos da Avaliação de Políticas Públicas",116
+437,"Introdução à Programação",5
+438,"Gestão Comparada Internacional",167
+439,"Estereótipos, Preconceito e Discriminação: Temas Avançados",148
+440,"Análise de Arquivos e de Outras Fontes Documentais",30
+441,"História Política Contemporânea de Portugal",96
+442,"Gestão de Projectos de Tecnologia e Sistemas de Informação",10
+443,"Tópicos de Matemática Elementar II",4
+444,"Seminário de Investigação em Psicologia - Metodologias Avançadas (2020)",154
+445,"Métodos e Técnicas Quantitativas para Economia",85
+446,"Nacionalismo e Etnicidade no Sistema Internacional",75
+447,"Dados na Ciência, Gestão e Sociedade",25
+448,"Os Desafios da Cultura, da Cidadania e dos Direitos Humanos",61
+449,"Álgebra Linear e Aplicações",40
+450,"Modelação de Sistemas de Informação",86
+451,"Antropologia, Cidadania e Direitos Humanos",75
+452,"Programação Orientada para Objectos",5
+453,"Seminário de Investigação em Gestão de Serviços e Tecnologia",106
+454,"História de África (Mea)",81
+455,"Seminário de Projecto em Finanças",60
+456,"Seminário de Projecto em Psicologia",136
+457,"Economia para Gestores",74
+458,"Grandes Eventos e Gestão de Eventos",78
+459,"Gestão da Biodiversidade",128
+460,"Recursos Humanos na Administração Pública",30
+461,"Economia Política e Globalização",96
+462,"Política Industrial, de Inovação e de Investigação",56
+463,"Estatística e Análise de Dados III",3
+464,"Avaliação e Reestruturação de Empresas",8
+465,"Intervenção em Contextos de Educação Não Formal - Princípios e Métodos",30
+466,"Psicologia Social da Saúde",61
+467,"Redes Sociais Online",36
+468,"Investimentos",8
+469,"Gestão de Tecnologias de Informação e do Conhecimento",107
+470,"Seminário de Investigação em Business Analytics",176
+471,"Estado e Administração Pública",49
+472,"Metodologias de Planeamento e Avaliação de Projectos de Desenvolvimento",114
+473,"Problemáticas em Antropologia: Teorias da Cultura e Património",180
+474,"Tecnologias e Sistemas Cloud",152
+475,"Relações Laborais",19
+476,"Gestão Logística",105
+477,"Planeamento de Políticas Públicas",163
+478,"Tópicos Avançados em Macroeconomia I",64
+479,"Experiência do Utilizador e Visualização de Informação",31
+480,"Gestão de Vendas",53
+481,"Análise de Dados em Hotelaria e Turismo",113
+482,"Segurança da Informação e Gestão do Risco",97
+483,"Sociologia da Saúde",30
+484,"Modelos de Previsão",93
+485,"Culturas: Identificações e Diferenciações",47
+486,"Finanças Empresariais (I)",60
+487,"Comunicação Estratégica",95
+488,"Gestão da Mudança no Contexto da Transformação Digital",155
+489,"Dissertação em Gestão de Hotelaria e Turismo (Dght)",113
+490,"Investimentos II",6
+491,"Investigação Operacional",32
+492,"Gestão de Conflitos",4
+493,"Dissertação em Economia Política",166
+494,"Teoria da Medida",77
+495,"Competências para o Mercado de Trabalho",4
+496,"Análise de Projectos de Investimento",106
+497,"Introdução ao Inglês para Negócios",4
+498,"Inglês Académico: Intermédio B1+",4
+499,"Gestão Internacional, Ética e Responsabilidade Social",110
+500,"Microeconomia II",17
+501,"Museus e Colecções",61
+502,"Dissertação em Mercados da Arte (54ects)",79
+503,"Ambiente e Sociedade",128
+504,"Pesquisas Exemplares em Políticas de Administração e Gestão Escolar",141
+505,"Análise de Redes em Ciências Sociais",30
+506,"Colonialismo e Descolonização na Época Contemporânea",63
+507,"Planeamento e Desenvolvimento de Competências",61
+508,"Econometria dos Mercados Financeiros",77
+509,"Investimentos e Mercados Financeiros",10
+510,"Estruturas e Serviços em Contexto de Saúde",67
+511,"Finanças Pessoais I",4
+512,"Avaliação de Desempenho",19
+513,"Projeto Aplicado em Ciência de Dados II",25
+514,"Teorias Sociológicas Contemporâneas",50
+515,"Psicologia do Contacto Intercultural e da Comunicação",148
+516,"Introdução à Gestão",26
+517,"Gestão da Imagem Pessoal",4
+521,"Psicopatologia",3
+522,"Sistemas e Redes de Comunicação para Móveis Avançados",28
+523,"Desenho e Acompanhamento de Processos de Avaliação de Políticas",116
+524,"Sistemas de Informação Analíticos I (2020)",12
+525,"Concepção de Sistemas de Controlo de Gestão",54
+526,"Arquitetura e Desenho de Software",31
+527,"Psicologia Social e das Organizações",19
+528,"Tópicos Avançados em Macroeconomia II",158
+529,"Estatística Computacional",25
+530,"Dissertação em Estudos do Ambiente e da Sustentabilidade",128
+531,"Seminário de Investigação em Gestão de Recursos Humanos e Consultadoria Organizacional",35
+532,"Design e Produção de Jogos Digitais",123
+533,"Economia",53
+534,"Análise e Avaliação Económica em Saúde",15
+535,"Direito das Sociedades Comerciais I",99
+536,"Economia do Trabalho e dos Recursos Humanos",17
+537,"Métodos Econométricos I",120
+538,"Tempos e Cidades",146
+539,"A Economia Mundial nos Séculos XIX e XX",63
+540,"Métodos de Inquirição Online",30
+541,"Tese em Antropologia (Da-Fcsh) (0 Ects)",134
+542,"Sistemas de Construção III",13
+543,"Contabilidade e Finanças para Organizações Culturais",20
+544,"Avaliação Psicológica da Criança e do Adulto",89
+545,"Conferência",155
+546,"Text Mining",12
+547,"Modelos de Liderança na Gestão Pública",155
+548,"Desenvolvimento de Competências Profissionais",58
+549,"Organizações Internacionais, Ongs e Movimentos Sociais",75
+550,"Seminário de Acompanhamento do Projeto de Doutoramento em Ciências e Tecnologias da Informação",11
+551,"Inteligência e Gestão de Redes e Serviços",28
+552,"Reporte Financeiro",8
+553,"Direito e Política Nacional do Mar",57
+554,"E-Business",110
+555,"Direito e Regulação do Ambiente",128
+556,"Gestão de Projeto e de Obra",13
+557,"Análise e Desenho de Políticas Públicas",172
+558,"Dissertação em Estudos Urbanos",48
+559,"Economia da Inovação e do Conhecimento",142
+560,"Trabalho em Equipa",18
+561,"Competências Académicas I",3
+562,"Direitos Humanos e Serviço Social",104
+563,"Seminário de Investigação em Arquitetura dos Territórios Metropolitanos Contemporâneos",59
+564,"Treino de Competências Académicas em Psicologia (2020)",154
+565,"Simulação de Sistemas e Operações",106
+566,"Turismo de Compras e Gestão de Retalho de Luxo",78
+567,"Contratação Pública e Fiscalização",139
+568,"Deontologia e Competências Profissionais em Grh",19
+569,"Internet das Coisas para Cidades Inteligentes",121
+570,"Dissertação em Estudos Internacionais",75
+571,"Metodologias de Planeamento",22
+572,"Sistemas de Informação: Bibliotecas e Arquivos",63
+573,"Geografia I",13
+574,"História e Imagem",137
+575,"Métodos Numéricos",77
+576,"Desenho de Sistemas de Informação",153
+577,"Escrita de Textos Técnicos e Científicos",84
+578,"Arquitectura III",13
+579,"Macroeconomia e Análise de Conjuntura",90
+580,"Gestão Urbana (2020)",13
+581,"Diásporas Africanas, Migrações e Direitos",81
+582,"Fundamentos de Contabilidade de Gestão",10
+583,"Desenvolvimento do Desenho e Organização do Projecto de Investigação em Gestão Empresarial Aplicada",87
+584,"Sistemas Políticos Comparados",96
+585,"Comunicação em Educação",167
+586,"Estado, Economia e Políticas Públicas",92
+587,"Seminário em Gestão de Sistemas de Informação 2 (2018)",153
+588,"Avaliação e Peritagem de Obras de Arte",79
+589,"Temas Críticos de Recursos Humanos em Hotelaria",113
+590,"Gestão de Conflitos e Negociação",19
+591,"Design Thinking e Estratégias de Inovação",155
+592,"Análise de Dados em Ciências Sociais - Descritiva",22
+593,"Arquitectura I",13
+594,"Psicologia das Organizações e do Trabalho",125
+595,"Psicologia Comunitária",127
+596,"Análise Prescritiva",98
+597,"Dissertação em Ciência Política",160
+598,"Análise de Campanhas Políticas",30
+599,"Economia e Políticas Europeias (2018)",92
+600,"Métodos Quantitativos para as Finanças",60
+601,"Seminário de Investigação em Economia I (2.º Ciclo)",1
+602,"Teoria e História da Arquitetura II",13
+603,"Liderança e Governança Organizacional",167
+604,"Seminário II: Economia Social e Solidária e as Economias 'Alternativas'",161
+605,"Instituições Políticas",96
+606,"Métodos e Técnicas de Investigação em Ciências Sociais",24
+607,"Diagnóstico e Mudança Organizacional",19
+608,"Laboratório de Elaboração de Projectos em Ciência Política",96
+609,"Introdução A Modelos Dinâmicos",25
+610,"Português Como Língua Estrangeira - Iniciação",4
+611,"Gestão das Operações e da Cadeia de Abastecimento",10
+612,"Pesquisa Bibliográfica e Análise da Informação",182
+613,"Economia do Ambiente e dos Recursos Naturais",167
+614,"Dissertação em Governação e Sustentabilidade do Mar",57
+615,"Gestão de Recursos Humanos e de Equipas",10
+616,"Tese de Doutoramento em Ciências da Complexidade (120ects) (0 Ects)",37
+617,"Ciências Sociais e Ação Humanitária (Mes)",55
+618,"Metodologias de Investigação Aplicadas às Políticas de Administração e Gestão Escolar",141
+619,"Dissertação em História Moderna e Contemporânea",184
+620,"Auditoria Pública",139
+621,"Bases de Dados Distribuídas Avançadas",98
+622,"Fundamentos de Economia",77
+623,"Inventário e Interpretação Patrimonial",156
+624,"Dissertação em Ciências do Trabalho e Relações Laborais",133
+625,"Migrações Contemporâneas",103
+626,"História das Teorias Económicas",161
+627,"Seminário de Investigação em Marketing",29
+628,"Opinião Pública e Sondagens",30
+629,"Desenvolvimento Emocional na Família e na Escola",61
+630,"Teorias em Média e Comunicação",36
+631,"Seminário de História I (2020)",38
+632,"Relações Europa-África",30
+633,"Seminário de Investigação em Gestão de Serviços de Saúde (3ects)",15
+634,"Macroeconometria I",118
+635,"Sociedade da Informação e do Conhecimento",132
+636,"Economia do Turismo",167
+637,"Gestão de Recursos Humanos (2ºciclo)",15
+638,"Desenho de Projeto para Ciência de Dados",93
+639,"Fundamentos de Programação",80
+640,"Diagnóstico e Intervenção Social e Organizacional",58
+641,"Gestão Integrada das Operações",32
+642,"Empreendedorismo",32
+643,"Tópicos de Matemática I",25
+644,"Economia e Políticas de Desenvolvimento",94
+645,"Análise de Dados em Gestão de Recursos Humanos III",19
+646,"Construção de Projeto em Antropologia",134
+647,"Psicologia Organizacional",167
+648,"Finanças de Empresa",32
+649,"Métodos de Investigação em Ciências e Tecnologias da Informação",11
+650,"Novas Perspectivas em História Moderna",184
+651,"Comunicação Visual II",13
+652,"Marketing Pessoal",167
+653,"Tese em Ciência Política (0 Ects)",145
+654,"Introdução à Estatística",143
+655,"Dissertação em Engenharia Informática (2020)",31
+656,"Enoturismo e Negócio do Vinho",78
+657,"Urbanismo II",13
+658,"História da Psicologia",3
+659,"Microeconomia",69
+660,"Leituras Etnográficas",47
+661,"Sistemas de Recursos Humanos e Gestão de Recompensas",35
+662,"Investigação Qualitativa",130
+663,"História Oral",137
+664,"Metodologia de Desenho Amostral e Estimação",52
+665,"Estatística e Análise de Dados II",3
+666,"Economia Global e Internacionalização das Empresas",85
+667,"Cidade, Migrações e Diversidade",48
+668,"Estratégias Empresariais e Instrumentos de Gestão na Economia Solidária",159
+669,"Métodos de Análise de Multimédia",30
+670,"Gestão das Organizações Escolares",34
+671,"Política Industrial e Competitividade",92
+672,"Seminário de Investigação em Contabilidade",126
+673,"Comunicação Integrada em Marketing",53
+674,"Comunicação e Negociação Intercultural",177
+675,"Excel Avançado",4
+676,"Fundamentos de Sinais e Sistemas",14
+677,"Dissertação em Políticas Públicas",147
+678,"Seminário em Estudos Internacionais",173
+679,"Formação do Portugal Moderno",63
+680,"Métodos Quantitativos",74
+681,"Gestão de Activos Financeiros",8
+682,"Cultura Arquitetónica (2020)",13
+683,"Dinâmicas Sociais da Internet",171
+684,"Estratégia de Marketing",29
+685,"Introdução à Sustentabilidade",4
+686,"Economia Política Comparada (2º Ciclo)",166
+687,"Gestão Integrada de Projectos",167
+688,"Leituras em Economia Política",166
+689,"Fusões, Aquisições e Avaliação de Empresas",167
+690,"Introdução à Sociologia (Dcse)",124
+691,"Fundamentos de Finanças da Empresa",167
+692,"Fiscalidade",43
+693,"Ética, Responsabilidade e Sustentabilidade Empresarial",74
+694,"Gestão de Projectos de Sistemas de Informação",153
+695,"Seminário de Projecto em Ciências da Comunicação",95
+696,"Investigação Operacional I",105
+697,"Processamento de Informação",23
+698,"Metodologias em Políticas Públicas: o Método Comparativo",70
+699,"Tese em Serviço Social (0 Ects)",68
+700,"Poderes: o Económico e o Político",47
+701,"Gestão de Bases de Dados",176
+702,"Portugal no Estado Novo",63
+703,"Análise de Dados em Ciências Sociais: Multivariada I",96
+704,"Estatística",17
+705,"Direito Fiscal das Empresas",99
+706,"Análise e Finanças de Empresa",19
+707,"Abordagens à Psicopatologia",24
+708,"Bases de Dados",5
+709,"Dissertação em Ação Humanitária",55
+710,"Relações Internacionais na Época Contemporânea",145
+711,"Gestão do Retalho",105
+712,"Metodologias de Investigação em Gestão Empresarial Aplicada",87
+713,"Econometria II",17
+714,"Estágio em Políticas Públicas",147
+715,"Fundamentos de Gestão (6ects)",79
+716,"Métodos e Áreas de Aplicação da Psicologia",3
+717,"Matemática e Métodos Numéricos para Economia e Finanças I",64
+718,"Estágio em Psicologia Comunitária",89
+719,"Análise de Indicadores Estatísticos",30
+720,"Marketing Cultural",20
+721,"Direito da Educação",34
+722,"Teorias Sociológicas Clássicas",50
+723,"Marketing Intelligence",53
+724,"Organizações, Profissões e Criatividade",181
+725,"Narrativas Digitais e Entretenimento Transmedia",131
+726,"Seminário de Projecto em Ciência Política e Relações Internacionais",145
+727,"Seminário de Teorias e Práticas do Desenvolvimento",115
+728,"Métodos de Investigação Quantitativos",3
+729,"Atitudes e Comportamentos Políticos",160
+730,"Estratégia e Valor Público (Forgep)",72
+731,"História e Cultura Portuguesa",30
+732,"Pesquisa / Elaboração de Projeto em Antropologia 1",103
+733,"Eleições, Partidos e Representação Política",76
+734,"Introdução à Investigação em Ciências e Tecnologias de Informação",107
+735,"Métodos de Pesquisa Qualitativos em Gestão Empresarial Aplicada",87
+736,"Média e Opinião Pública",36
+737,"Estatística e Análise de Dados",122
+738,"História do Capitalismo e da Democracia",124
+739,"Relações de Trabalho e Sindicalismo",133
+740,"Métodos Analíticos na Gestão",167
+741,"Inovação e Políticas Verdes",162
+742,"Marketing Global",110
+743,"Tópicos de Matemática para Computação",23
+744,"Álgebra",10
+745,"Derivados e Gestão de Risco",77
+746,"Dissertação em Engenharia de Telecomunicações e Informática (2020)",28
+747,"Modulação e Codificação",14
+748,"Fundamentos de Business Analytics",98
+749,"Turismo e Património",109
+750,"Psicometria",3
+751,"Concepção e Avaliação de Projectos",115
+752,"Desafios Atuais na Gestão de Recursos Humanos",35
+753,"Seminário de Desenvolvimento Científico em Gestão",130
+754,"Práticas de Trabalho Universitário",47
+755,"Introdução à Ciência de Dados",123
+756,"As Revoluções Liberais em Portugal",63
+757,"Análise de Dados em Marketing",53
+758,"Workshop de Discussão",155
+759,"Projecto de Arquitectura I",13
