@@ -70,7 +70,7 @@ payload_file.write_text(json.dumps(payload, indent=2, ensure_ascii=False),
 print(f"✔  Payload gravado    -> {payload_file.name}")
 
 try:
-    resp = requests.post(API_URL, json=payload, timeout=120)
+    resp = requests.post(API_URL, json=payload, timeout=99999)
     resp.raise_for_status()
     response_file.write_text(resp.text, encoding="utf-8")
     print(f"✔  Resposta da API    -> {response_file.name} "
