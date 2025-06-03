@@ -27,6 +27,12 @@ class TimetableProblem(ElementwiseProblem):
         
         # número de slots por dia (assumindo distribuição uniforme)
         self.slots_per_day = len(data["slots"]) // 6  # assumindo 5 dias úteis + sábado
+        
+        # identificar slots de almoço (12h-13h)
+        self.lunch_slots = set()
+        for idx, slot in enumerate(data["slots"]):
+            if slot["start"] >= "12:00" and slot["start"] < "13:00":
+                self.lunch_slots.add(idx)
 
     # ------------------------------------------------------------------
     def _get_day_from_slot(self, slot_idx):
@@ -66,7 +72,6 @@ class TimetableProblem(ElementwiseProblem):
 
         slot_by_year = {}
         occ          = set()               # (slot, room)
-
         classes_per_day = {}      # {day: count}
         class_days = {}          # {class_id: set(days)}
 
@@ -104,7 +109,11 @@ class TimetableProblem(ElementwiseProblem):
             if klass["id"] not in class_days:
                 class_days[klass["id"]] = set()
             if day in class_days[klass["id"]]:
-                f1_conflict += 1
+                f2_waste += 1
             class_days[klass["id"]].add(day)
+
+            # restrição 8) não ter aulas durante o almoço (12h-13h)
+            if slot in self.lunch_slots:
+                f2_waste += 1
 
         out["F"] = [f1_conflict, f2_waste]
