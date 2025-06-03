@@ -95,12 +95,12 @@ class TimetableProblem(ElementwiseProblem):
                 f1_conflict += 1
             occ.add((slot, room_id))
 
-            # restriçao 6) Máximo 3 aulas da mesma UC por dia
+            # restrição 6) Máximo 3 aulas da mesma UC por dia
             classes_per_day[day] = classes_per_day.get(day, 0) + 1
             if classes_per_day[day] > 3:
                 f1_conflict += 1
 
-            # restriçao 7) Distribuição de aulas da UC ao longo da semana
+            # restrição 7) Distribuição de aulas da UC ao longo da semana
             if klass["id"] not in class_days:
                 class_days[klass["id"]] = set()
             if day in class_days[klass["id"]]:
