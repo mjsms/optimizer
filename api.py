@@ -15,8 +15,8 @@ app = FastAPI(title="ISCTE Timetable Optimiser")
 # ---------- schemas ---------- #
 class OptimiseIn(BaseModel):
     data: dict
-    pop_size: int = 400 #valores default, caso nenhum seja passado
-    n_gen:    int = 100
+    pop_size: int
+    n_gen:    int
 
 
 class SolutionOut(BaseModel):
